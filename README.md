@@ -1,3 +1,3 @@
 # git-practice
 # hello world
-# Cherrie Mae Delfin
+# Cherrie Mae S. Delfin
